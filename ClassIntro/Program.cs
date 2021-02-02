@@ -51,5 +51,7 @@ namespace ClassIntro
         public int IzlenmeOranı { get; set; }
 
         
+
+
     }
 }
